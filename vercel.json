@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api-mail/:match*",
+      "destination": "https://www.1secmail.com/api/v1/:match*"
+    }
+  ]
+}
